@@ -8,3 +8,7 @@ Seus atributos (ex: nome, CPF),
 E o relacionamento entre elas (ex: Cliente faz Pedido).
 
 Durante a modelagem, criamos tabelas e colunas — e aqui entra a normalização.
+
+## Primeira forma normal 1FN
+
+## Segunda forma normal 2FN
